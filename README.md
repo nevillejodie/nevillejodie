@@ -4,7 +4,7 @@ I'm currently a developer at CyberOwl 👩‍💻 working on the DevOps and QA f
 
 However I still like to dabble in front end development, visit my portfolio site [here](www.jodieneville.co.uk)
 
-If you'd like to chat about anything you find here you can [DM me on Twitter](https://twitter.com/JodieNeville) or [email me](mailto:jlneville92@gmail.com)
+If you'd like to chat about anything you find on my GitHub you can [DM me on Twitter](https://twitter.com/JodieNeville) or [email me](mailto:jlneville92@gmail.com)
 
 <!--
 **nevillejodie/nevillejodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
