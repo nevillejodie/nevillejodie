@@ -1,6 +1,6 @@
 ### Hi, I'm Jodie. 🌻
 
-I'm currently a developer at CyberOwl 👩‍💻 working on the DevOps and QA functions. 🤖🦉
+I'm currently a Junior DevOps Engineer at CyberOwl 🤖🦉
 
 However I still like to dabble in front end development, visit my portfolio site [here](www.jodieneville.co.uk)
 
